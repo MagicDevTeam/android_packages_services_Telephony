@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
      Copyright (C) 2013 The CyanogenMod Project
+     Copyright (C) 2013 The MagicMod Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -67,4 +68,10 @@
     <string name="blacklist_notification_unknown_number">Blocked unknown number %s</string>
     <string name="blacklist_notification_multiple"><xliff:g id="count">%d</xliff:g> calls were blocked</string>
     <string name="unblock_number">Unblock</string>
+
+    <!-- none intrusive incal -->
+    <string name="preference_category_interface">Interface</string>
+    <string name="non_intrusive_incall_title">Non intrusive</string>
+    <string name="non_intrusive_incall_summary">Use non intrusive dialog for incoming calls</string>
+
 </resources>
